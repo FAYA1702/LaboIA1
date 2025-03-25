@@ -1,0 +1,11 @@
+Channel,Region,Product_A,Product_B,Product_C,Product_D,Customer_Age,Purchase_Amount
+Online,North,100,200,50,300,25,650
+Retail,South,150,180,45,250,34,630
+Online,East,130,210,55,270,28,665
+Retail,West,90,190,40,260,45,580
+Wholesale,North,80,170,60,240,30,550
+Online,South,120,220,35,310,22,685
+Retail,East,140,230,50,320,37,740
+Wholesale,West,110,210,45,290,41,655
+Online,North,95,200,55,305,26,655
+Retail,South,160,195,50,295,33,700
